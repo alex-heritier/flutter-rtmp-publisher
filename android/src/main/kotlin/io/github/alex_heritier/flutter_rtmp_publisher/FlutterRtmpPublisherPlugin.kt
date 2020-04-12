@@ -1,4 +1,4 @@
-package io.github.ponnamkarthik.flutterrtmppublisher
+package io.github.alex_heritier.flutter_rtmp_publisher
 
 import android.util.Log
 import io.flutter.plugin.common.PluginRegistry.Registrar
